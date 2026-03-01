@@ -1,0 +1,11 @@
+name: thermal_gaussian
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - imageio
+  - matplotlib
+  - opencv
+
