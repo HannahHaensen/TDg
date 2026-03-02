@@ -1,6 +1,7 @@
 # Supercharging Thermal Gaussian Splatting with Depth Estimation
 
 Manoj Biswanath(#, 1) , Chenxin Cai(#, 1), Hannah Schieber (2), Daniel Roth (2), Benjmanin Busam (1)
+- accepted ISPRS congress 2026
 - (#) denotes equal contribution
 - Photogrammetry and Remote Sensing, Munich Center for Machine Learning (MCML) Technical University of Munich (1)
 - Human-Centered Computing and Extended Reality Lab, TUM University Hospital, Clinic for Orthopedics and Sports Orthopedics, Munich Institute of Robotics and Machine Intelligence (MIRMI) (2)
